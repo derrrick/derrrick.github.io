@@ -827,6 +827,7 @@ p {
 }
 
 header.projects {
+	 font-family: adobe-caslon-pro;
 	 width: 93.75%;
 	 margin-top: 0px;
 	 max-width: 1280px;
@@ -955,6 +956,7 @@ img {
 }
 
 h3.project-heading-large {
+	 font-family: adobe-caslon-pro;
 	 font-size: 1.875em;
 	 line-height: 1.2;
 	 margin: 1.33333333333333em 32px 10px 32px;
@@ -965,6 +967,7 @@ p.project-desc {
 }
 
 p.date-note {
+	 font-family: adobe-caslon-pro;
 	 margin: 0 5% 2.857em;
 	 text-transform: uppercase;
 	 letter-spacing: 2px;
@@ -1001,6 +1004,7 @@ div.col2-project-element-2 {
 }
 
 h3.project-heading {
+	 font-family: adobe-caslon-pro;
 	 font-size: 1.5em;
 	 line-height: 1.25;
 	 margin: 1.667em 32px 0.625em;
