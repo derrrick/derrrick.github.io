@@ -43,27 +43,27 @@ animation-delay: 1.6s;
 
 .dribbble {
 	 text-decoration: none;
-	 color: rgba(255,21,142,1);
+	 color: rgba(0,0,0,1);
 	
 }
 
 .linkedin {
 	 text-decoration: none;
-	 color: rgba(86,121,225,1);
+	 color: rgba(0,0,0,1);
 	 
 }
 
 
 .twitter {
 	 text-decoration: none;
-	 color: rgba(13,151,255,1);
+	 color: rgba(0,0,0,1);
 
 }
 
 
 .facebook {
 	 text-decoration: none;
-	 color: rgba(56,32,192,0.86);
+	 color: rgba(0,0,0,1);
 }
 
 
