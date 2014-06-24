@@ -1119,7 +1119,7 @@ img.project-image {
 }
 
 em {
-	 font-family: "adobe-caslon-pro";
+	 font-family: "Adobe Caslon W08";
 	 font-weight: 400;
 	 font-style: italic;
 }
@@ -1288,6 +1288,12 @@ ul.rig li p {
 	font-size: 16px;
 	line-height: 20px;
 	color: #999;
+}
+
+em {
+	 font-family: "Adobe Caslon W08";
+	 font-weight: 400;
+	 font-style: italic;
 }
 
 #inner {
