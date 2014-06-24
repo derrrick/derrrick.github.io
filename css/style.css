@@ -260,7 +260,7 @@ p.date-note {
 div.col2-project-element-1 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 48.4375%;
@@ -274,7 +274,7 @@ div.col2-project-element-1 {
 div.col2-project-element-2 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 48.4375%;
@@ -293,7 +293,7 @@ h3.project-heading {
 div.col-3-project-element-3 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -306,7 +306,7 @@ div.col-3-project-element-3 {
 div.col-3-project-element-1 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -320,7 +320,7 @@ div.col-3-project-element-1 {
 div.col-3-project-element-2 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -334,7 +334,7 @@ div.col-3-project-element-2 {
 div.col-3-project-element-5 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -348,7 +348,7 @@ div.col-3-project-element-5 {
 div.col-3-project-element-6 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -382,7 +382,7 @@ a.load-more-link {
 div.col-3-project-element-4 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -477,7 +477,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-	 -webkit-transition: color .7s;
+	 -webkit-transition: color .5s;
 }
 
 }
@@ -598,7 +598,9 @@ h4 {
 h1 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
+	 -webkit-transition: color .3s;
 }
+
 
 h1 a {
 	 color: rgba(38, 200, 255, 1);
@@ -615,7 +617,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-
+	 -webkit-transition: color .5s;
 }
 
 h2 a {
@@ -662,12 +664,10 @@ h4 a {
 
 ul.soc li {
 	list-style: none;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 100;
-	margin-left: -35px;
-	padding-bottom: 10px;
+	padding-left: 50px;
 }
-
 #inner {
     width: 70%;
     margin: 0 auto;
@@ -738,7 +738,9 @@ h4 {
 h1 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
+	 -webkit-transition: color .3s;
 }
+
 
 h1 a {
 	 color: rgba(38, 200, 255, 1);
@@ -755,7 +757,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-
+	 -webkit-transition: color .5s;
 }
 
 h2 a {
@@ -1006,27 +1008,30 @@ p.date-note {
 div.col2-project-element-1 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-radius: 6px;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
-	 width: 48.4375%;
+	 width: 47%;
 	 -webkit-box-sizing: border-box;
 	 -moz-box-sizing: border-box;
 	 box-sizing: border-box;
-	 margin-right: 3.125%;
+	 margin-right: 3%;
 	 float: left;
 }
 
 div.col2-project-element-2 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-radius: 6px;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
-	 width: 48.4375%;
+	 width: 47%;
 	 -webkit-box-sizing: border-box;
 	 -moz-box-sizing: border-box;
 	 box-sizing: border-box;
+	 margin-right: 3%;
 	 float: left;
 }
 
@@ -1040,7 +1045,7 @@ h3.project-heading {
 div.col-3-project-element-3 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -1053,21 +1058,21 @@ div.col-3-project-element-3 {
 div.col-3-project-element-1 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
-	 width: 31.25%;
+	 width: 30%;
 	 -webkit-box-sizing: border-box;
 	 -moz-box-sizing: border-box;
 	 box-sizing: border-box;
-	 margin-right: 3.125%;
+	 margin-right:  3.3%;
 	 float: left;
 }
 
 div.col-3-project-element-2 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -1081,7 +1086,7 @@ div.col-3-project-element-2 {
 div.col-3-project-element-5 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -1095,7 +1100,7 @@ div.col-3-project-element-5 {
 div.col-3-project-element-6 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -1129,7 +1134,7 @@ a.load-more-link {
 div.col-3-project-element-4 {
 	 background: #fff;
 	 text-decoration: none;
-	 border-bottom: 2px solid #DDDBCC;
+	 border-bottom: 2px solid #adadad;
 	 margin-bottom: 2.5em;
 	 padding: 0;
 	 width: 31.25%;
@@ -1219,7 +1224,9 @@ h4 {
 h1 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
+	 -webkit-transition: color .3s;
 }
+
 
 h1 a {
 	 color: rgba(38, 200, 255, 1);
@@ -1236,7 +1243,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-
+	 -webkit-transition: color .5s;
 }
 
 h2 a {
@@ -1394,7 +1401,9 @@ h4 {
 h1 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
+	 -webkit-transition: color .3s;
 }
+
 
 h1 a {
 	 color: rgba(38, 200, 255, 1);
@@ -1411,7 +1420,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-
+	 -webkit-transition: color .5s;
 }
 
 h2 a {
@@ -1539,6 +1548,7 @@ h4 {
 h1 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
+	 -webkit-transition: color .3s;
 }
 
 h1 a {
@@ -1556,7 +1566,7 @@ h1 a {
 h2 a:hover {
 	 text-decoration: none;
 	 color: rgba(0,255,251,1);
-
+	 -webkit-transition: color .5s;
 }
 
 h2 a {
