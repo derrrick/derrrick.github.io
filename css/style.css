@@ -864,27 +864,17 @@ p {
 }
 
 header.projects {
-	 font-family: "Adobe Caslon W08", "Adobe Caslon W08 Italic";
-	 width: 93.75%;
 	 margin-top: 0px;
-	 max-width: 1280px;
-	 background: #fff;
-	 text-align: center;
-	 border-top: 1px solid #d4d4d4;
-	 border-width: 0px;
-	 background-color: rgba(45, 45, 45, 1);
+	 
 }
 
 h1.projects-title {
-	 margin: 0px auto 50px auto;
-	 padding: 50px 1em 0 0.7em;
-	 background: #fff;
-	 font-size: 200px;
+	 margin: 0px 0 80px 0;
+	 padding: 100px 0 0 0;
+	 font-size: 240px;
 	 line-height: 1;
 	 text-transform: inherit;
-	 letter-spacing: 0px;
 	 font-family: VolutaScriptW01-Regular;
-	 max-width: 6.6667em;
 	 color: rgba(255, 255, 255, 1);
 	 background-color: rgba(45, 45, 45, 1);
 }
@@ -913,6 +903,7 @@ a.projects-filter-link {
 	 font-family: BrandonGrotW01-Regular;
 	 letter-spacing: 2px;
 	 text-transform: uppercase;
+	 margin-bottom: 0;
 }
 
 li.projects-filter-li {
