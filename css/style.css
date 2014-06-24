@@ -181,6 +181,7 @@ div.wrapper {
 }
 
 p.tagline {
+	 font-family: adobe-caslon-pro;
 	 text-align: center;
 	 font-size: 36px;
 	 line-height: 50px;
@@ -906,6 +907,7 @@ div.wrapper {
 }
 
 p.tagline {
+	 font-family: adobe-caslon-pro;
 	 text-align: center;
 	 font-size: 36px;
 	 line-height: 50px;
@@ -1257,11 +1259,7 @@ ul.soc li {
 
 }
 
-ul.rig {
-	list-style: none;
-	font-size: 0px;
-	margin: 0 auto;https://gist.github.com/mrmrs/03ea4c0907b17c7e5a13
-}
+
 ul.rig li {
 	display: inline-block;
 	padding: 30px;
